@@ -1,0 +1,26 @@
+body {
+  background-color: cyan
+  color: white
+  font-family:'Work Sans', sans-serif;
+  text-align: center
+}
+
+div {background-color: blue}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
